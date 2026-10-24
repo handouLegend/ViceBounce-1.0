@@ -1,0 +1,12 @@
+﻿# Build outputs
+build/
+bin/*.pdb
+bin/*.ilk
+bin/*.obj
+
+# IDE
+.vs/
+*.user
+
+# Logs
+*.log
